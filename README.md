@@ -14,8 +14,8 @@ Analysis tasks can be classified according to whether the **target (What)** and 
 |---|---|---|
 | **Known** | Optimization | Insight |
 | **Unknown** | Solution | Discovery |
-- If the **target is known** → **Optimization (OS)**
-- If the **target is unknown** → **Insight Discovery (ID)**
+- If the **target is known** → **Optimization & Solution (OS)**
+- If the **target is unknown** → **Insight & Discovery (ID)**
 
 
 ---
