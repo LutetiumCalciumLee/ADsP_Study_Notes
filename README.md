@@ -331,7 +331,7 @@ Connected systems increasingly act autonomously and make decisions.
 **Digitalization → Connection → Agency**
 
 </details>
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
    
 # ADsP - I 과목. 데이터 이해
