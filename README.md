@@ -305,7 +305,7 @@ Organizations should support:
 - Development of analytical capabilities
 
 </details>
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
    
 # ADsP - II 과목. 데이터 분석 기획
