@@ -12,7 +12,7 @@
   <summary>KOR (한국어 버전)</summary>
   
   # ADsP (데이터 분석 준전문가) 정리 노트
-  이 Repository에는 데이터분석 준전문가(ADsP) 자격증을 준비하면서 공부하고 정리한 노트를 업로드했습니다.
+  이 Repository는 데이터분석 준전문가(ADsP) 자격증을 준비하면서 공부하고 정리한 노트입니다.
   
   ### [I 과목. 데이터 이해](https://github.com/LutetiumCalciumLee/ADsP_Study_Notes/tree/01.Data_Understanding)
   ### [II 과목. 데이터 분석 기획](https://github.com/LutetiumCalciumLee/ADsP_Study_Notes/tree/02.Data_Analysis_Planning)
